@@ -1,0 +1,9 @@
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\ConsoleApp_Kata_FizzBuzz\bin\Debug\ConsoleApp_Kata_FizzBuzz.exe.config
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\ConsoleApp_Kata_FizzBuzz\bin\Debug\ConsoleApp_Kata_FizzBuzz.exe
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\ConsoleApp_Kata_FizzBuzz\bin\Debug\ConsoleApp_Kata_FizzBuzz.pdb
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\ConsoleApp_Kata_FizzBuzz\bin\Debug\Kata_FizzBuzz_Project_Library.dll
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\ConsoleApp_Kata_FizzBuzz\bin\Debug\Kata_FizzBuzz_Project_Library.pdb
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\ConsoleApp_Kata_FizzBuzz\obj\Debug\ConsoleApp_Kata_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\ConsoleApp_Kata_FizzBuzz\obj\Debug\ConsoleApp_Kata_FizzBuzz.csproj.CopyComplete
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\ConsoleApp_Kata_FizzBuzz\obj\Debug\ConsoleApp_Kata_FizzBuzz.exe
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\ConsoleApp_Kata_FizzBuzz\obj\Debug\ConsoleApp_Kata_FizzBuzz.pdb

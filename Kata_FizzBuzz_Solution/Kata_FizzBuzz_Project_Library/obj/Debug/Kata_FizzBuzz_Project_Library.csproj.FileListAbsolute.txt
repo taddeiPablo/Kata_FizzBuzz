@@ -1,0 +1,5 @@
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\Kata_FizzBuzz_Project_Library\bin\Debug\Kata_FizzBuzz_Project_Library.dll
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\Kata_FizzBuzz_Project_Library\bin\Debug\Kata_FizzBuzz_Project_Library.pdb
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\Kata_FizzBuzz_Project_Library\obj\Debug\Kata_FizzBuzz_Project_Library.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\Kata_FizzBuzz_Project_Library\obj\Debug\Kata_FizzBuzz_Project_Library.dll
+C:\Users\pablo\Documents\GitHub\Kata_FizzBuzz\Kata_FizzBuzz_Solution\Kata_FizzBuzz_Project_Library\obj\Debug\Kata_FizzBuzz_Project_Library.pdb
